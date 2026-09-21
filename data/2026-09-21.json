@@ -1,313 +1,305 @@
 {
   "date": "2026-09-21",
-  "daily_brief": "今日导读：监管效率、临床数据、授权交易与基础研究，都在强调“证据、执行和效率”。今天建议重点观察两条主线：一是 FDA 等监管机构如何提升临床效率；二是 biotech 资产如何通过数据和交易被重新定价。",
+  "daily_brief": "今日导读：用事实—意义—同行视角—风险—职业价值五层结构阅读医药前沿。",
+  "daily_signals": [
+    "先识别今天最重要的监管或临床信号。",
+    "再观察交易与资产价值如何变化。",
+    "最后把科研发现放进转化和职业视角里理解。"
+  ],
   "sector_tags": [
-    "Regulatory",
-    "Clinical Trials",
-    "BD & Licensing",
-    "Oncology",
-    "Translational Research"
+    "Translational Research",
+    "Regulatory"
   ],
   "industry_temperature": {
-    "score": 68,
+    "score": 70,
     "label": "偏活跃",
-    "note": "今日消息面以监管改革、交易与临床推进为主，行业情绪偏积极，但仍然强调数据质量与执行效率。"
+    "note": "今日内容由 5 个来源自动抓取生成，重点覆盖监管、临床、交易与研究前沿。"
   },
   "items": [
     {
-      "source": "Fierce Biotech",
-      "category": "Regulatory & Clinical Development",
-      "title": "FDA launches pilot program to speed up sluggish phase 1 trials",
-      "url": "https://www.fiercebiotech.com/",
-      "zh_summary": "FDA 启动试点，希望压缩一期临床从准备到启动的时间。关键不只是“提速”，而是监管方开始正面回应早期临床效率不足这个结构性问题。",
-      "news_focus": "关注 pilot program、phase 1 和 speed up。监管方正在尝试通过具体机制缩短早期试验时间线。",
-      "why_it_matters": "一期临床启动速度会影响项目进入人体的节奏，也会影响一个国家对全球创新项目的吸引力。",
-      "industry_view": "同行会关心：试点是否能真正减少流程摩擦？是否会扩展到更多研究中心？企业能否因此减少时间成本？",
-      "subtext": "美国也在感受到全球临床竞争压力。谁能更快完成早期研究，谁就更容易吸引项目、资本和合作。",
-      "peer_questions": [
-        "瓶颈真的在 FDA 吗，还是更多发生在 IRB、合同、预算与中心启动？",
-        "试点成功后，哪些 CRO 和临床中心最受益？",
-        "这会不会改变跨国 biotech 的一期试验选址策略？"
-      ],
-      "career_value": "如果你未来想做临床运营、注册、咨询或 BD，这类新闻能帮你建立“监管动作如何改变研发节奏”的底层理解。",
-      "vocab": [
-        {
-          "word": "phase 1 trial",
-          "zh": "一期临床试验",
-          "note": "药物首次进入人体时最常见的试验阶段表达。",
-          "extension": "Try using “phase 1 trial” in a one-sentence summary of today’s article."
-        },
-        {
-          "word": "pilot program",
-          "zh": "试点项目",
-          "note": "经常用于监管改革或流程优化语境。",
-          "extension": "Try using “pilot program” in a one-sentence summary of today’s article."
-        },
-        {
-          "word": "speed up",
-          "zh": "加速",
-          "note": "比 improve 更有动作感。",
-          "extension": "Try using “speed up” in a one-sentence summary of today’s article."
-        },
-        {
-          "word": "clinical development",
-          "zh": "临床开发",
-          "note": "从早期试验到上市前的推进过程。",
-          "extension": "Try using “clinical development” in a one-sentence summary of today’s article."
-        },
-        {
-          "word": "competitive edge",
-          "zh": "竞争优势",
-          "note": "把监管效率和国际竞争力联系起来时常见。",
-          "extension": "Try using “competitive edge” in a one-sentence summary of today’s article."
-        }
-      ],
-      "risk_watch": "流程改革不等于实际时间线一定缩短；真正瓶颈还可能在研究中心、合同、预算和患者招募。",
-      "business_lens": "如果试点有效，能降低早期临床时间成本，也可能改变 CRO 与临床中心的竞争力。",
-      "role_tags": [
-        "Clinical Ops",
-        "Regulatory",
-        "CRO",
-        "BD"
-      ],
-      "retell_en": "The FDA pilot matters because faster phase 1 execution could improve the competitiveness of the U.S. clinical research ecosystem."
-    },
-    {
       "source": "Reuters",
-      "category": "Drug Approval / Rare Disease",
-      "title": "Scholar Rock secures first FDA approval for muscle-targeting rare disease drug",
-      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/",
-      "zh_summary": "Scholar Rock 获得首个 FDA 批准。这既是产品突破，也是公司从“研发故事”走向“商业故事”的关键节点。",
-      "news_focus": "first FDA approval 和 rare disease 是两个核心点：一个意味着公司历史性突破，一个说明赛道有较高专业壁垒。",
-      "why_it_matters": "首个批准常会改变公司的融资能力、合作谈判地位和市场关注度。",
-      "industry_view": "同行会继续看：适应症空间有多大、后续管线是否受益、商业化团队能否真正兑现价值。",
-      "subtext": "真正影响公司估值的，不只是“拿到批准”，而是批准之后收入、合作和平台价值如何被重新定价。",
+      "category": "Research Frontier",
+      "title": "Drug developer ADARx seeks $1.74 billion valuation in US IPO",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOUDdGZzVQcUgxaHgwWVV5Z1h2Z3NrdFZYYjVNdnhxX0tzb0NKUEs0RXZVeEdCMHEybkJvRWNpWllYWEtzcmhlQXVwQzB5MzJfUGppNkR3Snd6cXF6MXk4aUEwQ3JHWlBQY1NTRm9YVmVHeFdQdVF0RmdQNG5tbWZyb1J2cUVFVklrNVVTUmxKWjQxcncxalQyR0ExX0FwQW45S1dZX2FSazhXbnBxaWVHRVlqd3FLYzVWSVYxRHFnZGpWcXBOb1pHYnRR?oc=5",
+      "zh_summary": "核心是基础或转化研究领域的新发现。 精读时先找主语和核心动词，再问：What happened? Why does it matter? What could happen next?",
+      "news_focus": "核心是基础或转化研究领域的新发现。",
+      "why_it_matters": "今天的科研前沿，可能成为明天的靶点、biomarker 和创新方向。",
+      "industry_view": "同行会把研究放进机制—靶点—转化—临床潜力的链条里理解。",
+      "subtext": "研究价值通常不会立刻兑现，而会在几年内通过产业化路径慢慢显现。",
       "peer_questions": [
-        "这次批准能否带动公司其他管线估值？",
-        "市场规模与罕见病定价能否支撑商业化？",
-        "公司会选择独立商业化还是寻求合作？"
+        "这个发现能否转化为靶点？",
+        "有没有 biomarker 价值？",
+        "距离真正临床应用还有多远？"
       ],
-      "career_value": "适合训练你理解注册、罕见病策略、市场准入与公司估值之间的关系。",
-      "vocab": [
-        {
-          "word": "secure approval",
-          "zh": "获得批准",
-          "note": "比 get approval 更正式。",
-          "extension": "Try using “secure approval” in a one-sentence summary of today’s article."
-        },
-        {
-          "word": "rare disease",
-          "zh": "罕见病",
-          "note": "孤儿药与罕见病新闻核心词。",
-          "extension": "Try using “rare disease” in a one-sentence summary of today’s article."
-        },
-        {
-          "word": "milestone",
-          "zh": "里程碑",
-          "note": "公司与产品进展高频词。",
-          "extension": "Try using “milestone” in a one-sentence summary of today’s article."
-        },
-        {
-          "word": "commercial opportunity",
-          "zh": "商业机会",
-          "note": "把研发结果与市场前景连接起来。",
-          "extension": "Try using “commercial opportunity” in a one-sentence summary of today’s article."
-        },
-        {
-          "word": "revalue",
-          "zh": "重新估值",
-          "note": "常是批准后市场关注的背后逻辑。",
-          "extension": "Try using “revalue” in a one-sentence summary of today’s article."
-        }
-      ],
-      "risk_watch": "获批只是商业化起点；市场规模、定价、支付和销售执行仍决定最终价值兑现。",
-      "business_lens": "首个批准可能提升公司融资与合作议价能力，但后续价值取决于商业化与管线协同。",
+      "career_value": "适合建立你对早研、转化医学和创新方向的敏感度。",
+      "risk_watch": "继续关注执行进度、外部环境与后续验证，避免把单一事件当作最终结论。",
+      "business_lens": "观察这件事是否会改变资产价值、合作意愿、研发时间线或资源配置。",
       "role_tags": [
-        "Market Access",
-        "Regulatory",
-        "Commercial",
-        "Strategy"
+        "Discovery",
+        "Translational Medicine",
+        "MSL"
       ],
-      "retell_en": "The approval is more than a regulatory milestone because it can reshape the company’s commercial outlook and negotiating position."
-    },
-    {
-      "source": "STAT",
-      "category": "Biotech Business / Licensing",
-      "title": "Biotech dealmaking rebounds as companies chase focused licensing opportunities",
-      "url": "https://www.statnews.com/",
-      "zh_summary": "Biotech 交易活动回暖，但市场更青睐聚焦型授权，而不是泛化的大交易。",
-      "news_focus": "dealmaking rebounds 表明交易回升，而 focused licensing 则说明买方更重视精准匹配。",
-      "why_it_matters": "交易活动是行业温度计，能反映资本环境、资产偏好与企业战略变化。",
-      "industry_view": "同行更关注交易结构、首付款、里程碑设计和战略契合度，而不只看 headline 金额。",
-      "subtext": "市场情绪在修复，但筛选更严格。行业不是盲目乐观，而是更加挑剔。",
-      "peer_questions": [
-        "哪些治疗领域最容易获得 licensing interest？",
-        "买方更看重临床数据还是平台能力？",
-        "交易条款是否显示卖方议价能力回升？"
-      ],
-      "career_value": "对 BD、战略、咨询和投资岗位特别有价值，因为它训练你理解资产为什么值得被交易。",
+      "retell_en": "This research matters because mechanistic insight may eventually shape target discovery and translational strategy.",
       "vocab": [
         {
-          "word": "dealmaking",
-          "zh": "交易活动",
-          "note": "BD 和并购新闻的高频总称。",
-          "extension": "Try using “dealmaking” in a one-sentence summary of today’s article."
+          "word": "clinical trial",
+          "zh": "临床试验",
+          "note": "drug development 高频词",
+          "extension": "Try using “clinical trial” in a one-sentence summary of today’s article."
         },
         {
-          "word": "licensing opportunity",
-          "zh": "授权机会",
-          "note": "某项资产可能被合作或引进。",
-          "extension": "Try using “licensing opportunity” in a one-sentence summary of today’s article."
-        },
-        {
-          "word": "asset quality",
-          "zh": "资产质量",
-          "note": "评估药物项目价值时常见。",
-          "extension": "Try using “asset quality” in a one-sentence summary of today’s article."
-        },
-        {
-          "word": "term sheet",
-          "zh": "条款清单",
-          "note": "交易谈判初期文件。",
-          "extension": "Try using “term sheet” in a one-sentence summary of today’s article."
-        },
-        {
-          "word": "strategic fit",
-          "zh": "战略契合度",
-          "note": "交易成立的关键判断因素之一。",
-          "extension": "Try using “strategic fit” in a one-sentence summary of today’s article."
-        }
-      ],
-      "risk_watch": "交易数量回升不代表所有资产都更容易成交，数据质量和战略契合度仍是核心筛选标准。",
-      "business_lens": "真正值得看的不是 headline 金额，而是 upfront、milestones、royalties 与权利范围。",
-      "role_tags": [
-        "BD",
-        "Strategy",
-        "Consulting",
-        "Investment"
-      ],
-      "retell_en": "The rebound in biotech dealmaking suggests improving sentiment, but buyers are still highly selective about asset quality and strategic fit."
-    },
-    {
-      "source": "Endpoints News",
-      "category": "Oncology / Data Readout",
-      "title": "Oncology developers parse mixed trial data as next catalysts come into focus",
-      "url": "https://endpts.com/",
-      "zh_summary": "肿瘤开发者正在消化一组并不完美的数据，同时把目光投向下一批关键催化剂事件。",
-      "news_focus": "mixed trial data 意味着结果处于灰色区间；next catalysts 指后续真正决定走向的节点。",
-      "why_it_matters": "医药行业很多判断都发生在“不确定”里。读懂灰色地带，是从新闻阅读走向专业分析的关键。",
-      "industry_view": "同行会看终点、亚组、统计学显著性、会议时点和下一次 readout 的可解释性。",
-      "subtext": "市场看似在等结果，其实更是在等一个能被更清楚解释和讲述的数据故事。",
-      "peer_questions": [
-        "主要终点和次级终点是否一致？",
-        "某些 subgroup 是否显示更强信号？",
-        "下一次 catalyst 会不会真正消除当前不确定性？"
-      ],
-      "career_value": "无论你未来做研发、医学事务还是投资，理解 mixed readout 都很重要。",
-      "vocab": [
-        {
-          "word": "mixed data",
-          "zh": "喜忧参半的数据",
-          "note": "新闻标题常用。",
-          "extension": "Try using “mixed data” in a one-sentence summary of today’s article."
-        },
-        {
-          "word": "catalyst",
-          "zh": "催化剂事件",
-          "note": "可能显著影响项目或股价的后续事件。",
-          "extension": "Try using “catalyst” in a one-sentence summary of today’s article."
-        },
-        {
-          "word": "endpoint",
-          "zh": "终点指标",
-          "note": "判断试验成败的核心词。",
-          "extension": "Try using “endpoint” in a one-sentence summary of today’s article."
-        },
-        {
-          "word": "subgroup",
-          "zh": "亚组",
-          "note": "肿瘤试验解读中关键。",
-          "extension": "Try using “subgroup” in a one-sentence summary of today’s article."
+          "word": "regulatory",
+          "zh": "监管的",
+          "note": "regulatory review / approval 常见",
+          "extension": "Try using “regulatory” in a one-sentence summary of today’s article."
         },
         {
           "word": "readout",
           "zh": "数据公布",
-          "note": "临床数据正式披露。",
+          "note": "trial readout",
           "extension": "Try using “readout” in a one-sentence summary of today’s article."
+        },
+        {
+          "word": "pipeline",
+          "zh": "研发管线",
+          "note": "R&D pipeline",
+          "extension": "Try using “pipeline” in a one-sentence summary of today’s article."
+        },
+        {
+          "word": "efficacy",
+          "zh": "疗效",
+          "note": "efficacy and safety",
+          "extension": "Try using “efficacy” in a one-sentence summary of today’s article."
         }
+      ]
+    },
+    {
+      "source": "STAT",
+      "category": "Regulatory / Approval",
+      "title": "Radiopharma companies merge after one receives surprise FDA rejection",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPV3RFQ0ppU0FoWDNvT0JOdzM2QWZiQ3QxemtxX2NKWVVMYmttREJvWnRPcE05dW5Kak1FWkU1UmJTOEJkc1lrZ0JHRmFBOE91Wmx0bHQ3OFA2ejBfWEI2QjRPYjd6UWVhb1FaY3dKY3NzV21TUXBCVkk2UENOV2c3dA?oc=5",
+      "zh_summary": "核心是监管审批、政策动作或审评流程变化。 精读时先找主语和核心动词，再问：What happened? Why does it matter? What could happen next?",
+      "news_focus": "核心是监管审批、政策动作或审评流程变化。",
+      "why_it_matters": "监管变化会重新定义项目推进速度和商业机会。",
+      "industry_view": "同行会看这项动作会影响哪些公司、流程与竞争位置。",
+      "subtext": "监管消息往往是产业竞争和资源流向变化的前奏。",
+      "peer_questions": [
+        "这会影响哪些公司或赛道？",
+        "是一次性动作还是长期趋势？",
+        "企业需要如何调整策略？"
       ],
-      "risk_watch": "mixed data 容易被过度解读；需要核对主要终点、亚组分析、样本量与后续验证计划。",
-      "business_lens": "数据不确定性会直接影响融资、合作条款和项目优先级。",
+      "career_value": "有助于建立注册、临床运营与行业格局之间的连接。",
+      "risk_watch": "继续关注执行进度、外部环境与后续验证，避免把单一事件当作最终结论。",
+      "business_lens": "观察这件事是否会改变资产价值、合作意愿、研发时间线或资源配置。",
       "role_tags": [
-        "Medical Affairs",
-        "Clinical",
-        "Oncology",
-        "Equity Research"
+        "Regulatory",
+        "Clinical Ops",
+        "Strategy"
       ],
-      "retell_en": "Mixed oncology data should be interpreted cautiously because the next readout may be more important than the headline result itself."
+      "retell_en": "This regulatory development matters because it could reshape execution timelines and competitive positioning.",
+      "vocab": [
+        {
+          "word": "clinical trial",
+          "zh": "临床试验",
+          "note": "drug development 高频词",
+          "extension": "Try using “clinical trial” in a one-sentence summary of today’s article."
+        },
+        {
+          "word": "regulatory",
+          "zh": "监管的",
+          "note": "regulatory review / approval 常见",
+          "extension": "Try using “regulatory” in a one-sentence summary of today’s article."
+        },
+        {
+          "word": "readout",
+          "zh": "数据公布",
+          "note": "trial readout",
+          "extension": "Try using “readout” in a one-sentence summary of today’s article."
+        },
+        {
+          "word": "pipeline",
+          "zh": "研发管线",
+          "note": "R&D pipeline",
+          "extension": "Try using “pipeline” in a one-sentence summary of today’s article."
+        },
+        {
+          "word": "efficacy",
+          "zh": "疗效",
+          "note": "efficacy and safety",
+          "extension": "Try using “efficacy” in a one-sentence summary of today’s article."
+        }
+      ]
+    },
+    {
+      "source": "Fierce Biotech",
+      "category": "Regulatory / Approval",
+      "title": "As ‘cultural weight’ of a psychedelic approval looms, FDA hearing focuses on access and safety",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWFRqYXhOZGhNSGZzbHZZN1lVel91bWxZY3c4YW1Na1p6UDU0Wmx5eURxd2g5ZDhseDgyOVh5bTBKb3BhNzhIbjBBdENTeF9WYWhIalU5cUt5NUs3T0pRdks5QlQ4NERfYlRvX3FIeWZTam5jZFdEWW5mWlR4UzA4TldNbmVFeUpMN2x6SDg0WHhwVW5iVTBFY0pORm55SEFpN0VsbE1NZ2NWMUhTZ1Y3a3ljaTFsSDlpX2c?oc=5",
+      "zh_summary": "核心是监管审批、政策动作或审评流程变化。 精读时先找主语和核心动词，再问：What happened? Why does it matter? What could happen next?",
+      "news_focus": "核心是监管审批、政策动作或审评流程变化。",
+      "why_it_matters": "监管变化会重新定义项目推进速度和商业机会。",
+      "industry_view": "同行会看这项动作会影响哪些公司、流程与竞争位置。",
+      "subtext": "监管消息往往是产业竞争和资源流向变化的前奏。",
+      "peer_questions": [
+        "这会影响哪些公司或赛道？",
+        "是一次性动作还是长期趋势？",
+        "企业需要如何调整策略？"
+      ],
+      "career_value": "有助于建立注册、临床运营与行业格局之间的连接。",
+      "risk_watch": "继续关注执行进度、外部环境与后续验证，避免把单一事件当作最终结论。",
+      "business_lens": "观察这件事是否会改变资产价值、合作意愿、研发时间线或资源配置。",
+      "role_tags": [
+        "Regulatory",
+        "Clinical Ops",
+        "Strategy"
+      ],
+      "retell_en": "This regulatory development matters because it could reshape execution timelines and competitive positioning.",
+      "vocab": [
+        {
+          "word": "clinical trial",
+          "zh": "临床试验",
+          "note": "drug development 高频词",
+          "extension": "Try using “clinical trial” in a one-sentence summary of today’s article."
+        },
+        {
+          "word": "regulatory",
+          "zh": "监管的",
+          "note": "regulatory review / approval 常见",
+          "extension": "Try using “regulatory” in a one-sentence summary of today’s article."
+        },
+        {
+          "word": "readout",
+          "zh": "数据公布",
+          "note": "trial readout",
+          "extension": "Try using “readout” in a one-sentence summary of today’s article."
+        },
+        {
+          "word": "pipeline",
+          "zh": "研发管线",
+          "note": "R&D pipeline",
+          "extension": "Try using “pipeline” in a one-sentence summary of today’s article."
+        },
+        {
+          "word": "efficacy",
+          "zh": "疗效",
+          "note": "efficacy and safety",
+          "extension": "Try using “efficacy” in a one-sentence summary of today’s article."
+        }
+      ]
+    },
+    {
+      "source": "Endpoints News",
+      "category": "Research Frontier",
+      "title": "Developing your new medicine in Japan faster",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBUZS1VaW55VTVCLVJxT3dvQnNKZ2o5cUZUYklIdGt6WUtSMWQ1ZXVwYlB2R3JjbzVHMnVhQlBZVE53TXFKQVB5eVZGTy13MVh1?oc=5",
+      "zh_summary": "核心是基础或转化研究领域的新发现。 精读时先找主语和核心动词，再问：What happened? Why does it matter? What could happen next?",
+      "news_focus": "核心是基础或转化研究领域的新发现。",
+      "why_it_matters": "今天的科研前沿，可能成为明天的靶点、biomarker 和创新方向。",
+      "industry_view": "同行会把研究放进机制—靶点—转化—临床潜力的链条里理解。",
+      "subtext": "研究价值通常不会立刻兑现，而会在几年内通过产业化路径慢慢显现。",
+      "peer_questions": [
+        "这个发现能否转化为靶点？",
+        "有没有 biomarker 价值？",
+        "距离真正临床应用还有多远？"
+      ],
+      "career_value": "适合建立你对早研、转化医学和创新方向的敏感度。",
+      "risk_watch": "继续关注执行进度、外部环境与后续验证，避免把单一事件当作最终结论。",
+      "business_lens": "观察这件事是否会改变资产价值、合作意愿、研发时间线或资源配置。",
+      "role_tags": [
+        "Discovery",
+        "Translational Medicine",
+        "MSL"
+      ],
+      "retell_en": "This research matters because mechanistic insight may eventually shape target discovery and translational strategy.",
+      "vocab": [
+        {
+          "word": "clinical trial",
+          "zh": "临床试验",
+          "note": "drug development 高频词",
+          "extension": "Try using “clinical trial” in a one-sentence summary of today’s article."
+        },
+        {
+          "word": "regulatory",
+          "zh": "监管的",
+          "note": "regulatory review / approval 常见",
+          "extension": "Try using “regulatory” in a one-sentence summary of today’s article."
+        },
+        {
+          "word": "readout",
+          "zh": "数据公布",
+          "note": "trial readout",
+          "extension": "Try using “readout” in a one-sentence summary of today’s article."
+        },
+        {
+          "word": "pipeline",
+          "zh": "研发管线",
+          "note": "R&D pipeline",
+          "extension": "Try using “pipeline” in a one-sentence summary of today’s article."
+        },
+        {
+          "word": "efficacy",
+          "zh": "疗效",
+          "note": "efficacy and safety",
+          "extension": "Try using “efficacy” in a one-sentence summary of today’s article."
+        }
+      ]
     },
     {
       "source": "Nature Medicine",
       "category": "Research Frontier",
-      "title": "New evidence links immune signaling to broader disease mechanisms",
-      "url": "https://www.nature.com/nm/",
-      "zh_summary": "新研究把免疫信号与更广泛的疾病机制联系起来，提示基础研究正在持续改写对疾病的理解。",
-      "news_focus": "mechanistic evidence 是核心。它改变的不是一句结论，而是对疾病机制的解释框架。",
-      "why_it_matters": "今天的机制研究，可能成为未来的靶点发现、biomarker 策略与创新药方向。",
-      "industry_view": "同行会把研究放进“机制—靶点—转化—临床潜力”的连续链条里理解。",
-      "subtext": "科研突破的真正产业价值通常不会立刻兑现，而会在未来几年逐步显现。",
+      "title": "Nature Medicine - AI for retinal disease diagnosis",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE85MC04N3dNTWxUYk9UVlJyWlFxY3I5QzU0b2pQWFJWS2Q5RWJyUEdNOVAyUno3dThpemFrczY1MHJ3OWY0ZFgzVEhSclNHSW9a?oc=5",
+      "zh_summary": "核心是基础或转化研究领域的新发现。 精读时先找主语和核心动词，再问：What happened? Why does it matter? What could happen next?",
+      "news_focus": "核心是基础或转化研究领域的新发现。",
+      "why_it_matters": "今天的科研前沿，可能成为明天的靶点、biomarker 和创新方向。",
+      "industry_view": "同行会把研究放进机制—靶点—转化—临床潜力的链条里理解。",
+      "subtext": "研究价值通常不会立刻兑现，而会在几年内通过产业化路径慢慢显现。",
       "peer_questions": [
-        "这个机制是否足够可药物化？",
-        "有没有可用于患者分层的 biomarker？",
-        "离真正临床验证还差哪几个关键步骤？"
+        "这个发现能否转化为靶点？",
+        "有没有 biomarker 价值？",
+        "距离真正临床应用还有多远？"
       ],
-      "career_value": "如果你未来进入 MSL、转化医学、早研或战略岗位，这类思维链非常重要。",
+      "career_value": "适合建立你对早研、转化医学和创新方向的敏感度。",
+      "risk_watch": "继续关注执行进度、外部环境与后续验证，避免把单一事件当作最终结论。",
+      "business_lens": "观察这件事是否会改变资产价值、合作意愿、研发时间线或资源配置。",
+      "role_tags": [
+        "Discovery",
+        "Translational Medicine",
+        "MSL"
+      ],
+      "retell_en": "This research matters because mechanistic insight may eventually shape target discovery and translational strategy.",
       "vocab": [
         {
-          "word": "immune signaling",
-          "zh": "免疫信号通路",
-          "note": "免疫学与炎症研究常见。",
-          "extension": "Try using “immune signaling” in a one-sentence summary of today’s article."
+          "word": "clinical trial",
+          "zh": "临床试验",
+          "note": "drug development 高频词",
+          "extension": "Try using “clinical trial” in a one-sentence summary of today’s article."
         },
         {
-          "word": "disease mechanism",
-          "zh": "疾病机制",
-          "note": "科研类内容核心词。",
-          "extension": "Try using “disease mechanism” in a one-sentence summary of today’s article."
+          "word": "regulatory",
+          "zh": "监管的",
+          "note": "regulatory review / approval 常见",
+          "extension": "Try using “regulatory” in a one-sentence summary of today’s article."
         },
         {
-          "word": "target discovery",
-          "zh": "靶点发现",
-          "note": "连接基础研究与药物开发。",
-          "extension": "Try using “target discovery” in a one-sentence summary of today’s article."
+          "word": "readout",
+          "zh": "数据公布",
+          "note": "trial readout",
+          "extension": "Try using “readout” in a one-sentence summary of today’s article."
         },
         {
-          "word": "biomarker",
-          "zh": "生物标志物",
-          "note": "转化医学和临床试验设计常用。",
-          "extension": "Try using “biomarker” in a one-sentence summary of today’s article."
+          "word": "pipeline",
+          "zh": "研发管线",
+          "note": "R&D pipeline",
+          "extension": "Try using “pipeline” in a one-sentence summary of today’s article."
         },
         {
-          "word": "translational potential",
-          "zh": "转化潜力",
-          "note": "基础研究走向临床的重要判断。",
-          "extension": "Try using “translational potential” in a one-sentence summary of today’s article."
+          "word": "efficacy",
+          "zh": "疗效",
+          "note": "efficacy and safety",
+          "extension": "Try using “efficacy” in a one-sentence summary of today’s article."
         }
-      ],
-      "risk_watch": "基础研究结果距离临床价值通常还有较长验证链，机制可重复性和可药物化程度都需要继续观察。",
-      "business_lens": "真正的产业价值来自机制能否转化成靶点、biomarker 或可验证的产品机会。",
-      "role_tags": [
-        "Translational Medicine",
-        "Discovery",
-        "MSL",
-        "Strategy"
-      ],
-      "retell_en": "The research is important because mechanistic insight can eventually influence target discovery, biomarker strategy and drug development."
+      ]
     }
-  ],
-  "daily_signals": [
-    "监管效率正在成为全球临床竞争力的一部分。",
-    "Biotech 交易回暖，但买方对资产质量更挑剔。",
-    "从机制研究到临床价值，转化能力仍是行业核心门槛。"
   ]
 }
