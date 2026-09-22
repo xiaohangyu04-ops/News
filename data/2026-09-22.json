@@ -1,0 +1,305 @@
+{
+  "date": "2026-09-22",
+  "daily_brief": "今日导读：用事实—意义—同行视角—风险—职业价值五层结构阅读医药前沿。",
+  "daily_signals": [
+    "先识别今天最重要的监管或临床信号。",
+    "再观察交易与资产价值如何变化。",
+    "最后把科研发现放进转化和职业视角里理解。"
+  ],
+  "sector_tags": [
+    "Translational Research",
+    "Regulatory"
+  ],
+  "industry_temperature": {
+    "score": 70,
+    "label": "偏活跃",
+    "note": "今日内容由 5 个来源自动抓取生成，重点覆盖监管、临床、交易与研究前沿。"
+  },
+  "items": [
+    {
+      "source": "Reuters",
+      "category": "Research Frontier",
+      "title": "Ultragenyx sets $3.95 million price for rare disease gene therapy",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOeE90bDVTdWlBazlIN1NQLXJHbklsNk1MQ09JTy1tTHdDd0Jja0tOY09ZeEJJQjJnVW52TzVFa2NSSmdsMHhOQXJiV2VPR0RPYktma2k2OHUtTHItY2F2OEs0M0ZIeTJsQmltNWFpUU8tZDlvMUFtY1F4U0ZfaXFIb3kwaEh3ei1qdmtoLXVMMDZJX2lLemIzblhHWWJ0Nkd2RFYwbm5qempENjFPYk5GYkZhUlNnMFNLZGJYTXFfcTR4UmpC?oc=5",
+      "zh_summary": "核心是基础或转化研究领域的新发现。 精读时先找主语和核心动词，再问：What happened? Why does it matter? What could happen next?",
+      "news_focus": "核心是基础或转化研究领域的新发现。",
+      "why_it_matters": "今天的科研前沿，可能成为明天的靶点、biomarker 和创新方向。",
+      "industry_view": "同行会把研究放进机制—靶点—转化—临床潜力的链条里理解。",
+      "subtext": "研究价值通常不会立刻兑现，而会在几年内通过产业化路径慢慢显现。",
+      "peer_questions": [
+        "这个发现能否转化为靶点？",
+        "有没有 biomarker 价值？",
+        "距离真正临床应用还有多远？"
+      ],
+      "career_value": "适合建立你对早研、转化医学和创新方向的敏感度。",
+      "risk_watch": "继续关注执行进度、外部环境与后续验证，避免把单一事件当作最终结论。",
+      "business_lens": "观察这件事是否会改变资产价值、合作意愿、研发时间线或资源配置。",
+      "role_tags": [
+        "Discovery",
+        "Translational Medicine",
+        "MSL"
+      ],
+      "retell_en": "This research matters because mechanistic insight may eventually shape target discovery and translational strategy.",
+      "vocab": [
+        {
+          "word": "clinical trial",
+          "zh": "临床试验",
+          "note": "drug development 高频词",
+          "extension": "Try using “clinical trial” in a one-sentence summary of today’s article."
+        },
+        {
+          "word": "regulatory",
+          "zh": "监管的",
+          "note": "regulatory review / approval 常见",
+          "extension": "Try using “regulatory” in a one-sentence summary of today’s article."
+        },
+        {
+          "word": "readout",
+          "zh": "数据公布",
+          "note": "trial readout",
+          "extension": "Try using “readout” in a one-sentence summary of today’s article."
+        },
+        {
+          "word": "pipeline",
+          "zh": "研发管线",
+          "note": "R&D pipeline",
+          "extension": "Try using “pipeline” in a one-sentence summary of today’s article."
+        },
+        {
+          "word": "efficacy",
+          "zh": "疗效",
+          "note": "efficacy and safety",
+          "extension": "Try using “efficacy” in a one-sentence summary of today’s article."
+        }
+      ]
+    },
+    {
+      "source": "STAT",
+      "category": "Regulatory / Approval",
+      "title": "Radiopharma companies merge after one receives surprise FDA rejection",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPV3RFQ0ppU0FoWDNvT0JOdzM2QWZiQ3QxemtxX2NKWVVMYmttREJvWnRPcE05dW5Kak1FWkU1UmJTOEJkc1lrZ0JHRmFBOE91Wmx0bHQ3OFA2ejBfWEI2QjRPYjd6UWVhb1FaY3dKY3NzV21TUXBCVkk2UENOV2c3dA?oc=5",
+      "zh_summary": "核心是监管审批、政策动作或审评流程变化。 精读时先找主语和核心动词，再问：What happened? Why does it matter? What could happen next?",
+      "news_focus": "核心是监管审批、政策动作或审评流程变化。",
+      "why_it_matters": "监管变化会重新定义项目推进速度和商业机会。",
+      "industry_view": "同行会看这项动作会影响哪些公司、流程与竞争位置。",
+      "subtext": "监管消息往往是产业竞争和资源流向变化的前奏。",
+      "peer_questions": [
+        "这会影响哪些公司或赛道？",
+        "是一次性动作还是长期趋势？",
+        "企业需要如何调整策略？"
+      ],
+      "career_value": "有助于建立注册、临床运营与行业格局之间的连接。",
+      "risk_watch": "继续关注执行进度、外部环境与后续验证，避免把单一事件当作最终结论。",
+      "business_lens": "观察这件事是否会改变资产价值、合作意愿、研发时间线或资源配置。",
+      "role_tags": [
+        "Regulatory",
+        "Clinical Ops",
+        "Strategy"
+      ],
+      "retell_en": "This regulatory development matters because it could reshape execution timelines and competitive positioning.",
+      "vocab": [
+        {
+          "word": "clinical trial",
+          "zh": "临床试验",
+          "note": "drug development 高频词",
+          "extension": "Try using “clinical trial” in a one-sentence summary of today’s article."
+        },
+        {
+          "word": "regulatory",
+          "zh": "监管的",
+          "note": "regulatory review / approval 常见",
+          "extension": "Try using “regulatory” in a one-sentence summary of today’s article."
+        },
+        {
+          "word": "readout",
+          "zh": "数据公布",
+          "note": "trial readout",
+          "extension": "Try using “readout” in a one-sentence summary of today’s article."
+        },
+        {
+          "word": "pipeline",
+          "zh": "研发管线",
+          "note": "R&D pipeline",
+          "extension": "Try using “pipeline” in a one-sentence summary of today’s article."
+        },
+        {
+          "word": "efficacy",
+          "zh": "疗效",
+          "note": "efficacy and safety",
+          "extension": "Try using “efficacy” in a one-sentence summary of today’s article."
+        }
+      ]
+    },
+    {
+      "source": "Fierce Biotech",
+      "category": "Regulatory / Approval",
+      "title": "As ‘cultural weight’ of a psychedelic approval looms, FDA hearing focuses on access and safety",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWFRqYXhOZGhNSGZzbHZZN1lVel91bWxZY3c4YW1Na1p6UDU0Wmx5eURxd2g5ZDhseDgyOVh5bTBKb3BhNzhIbjBBdENTeF9WYWhIalU5cUt5NUs3T0pRdks5QlQ4NERfYlRvX3FIeWZTam5jZFdEWW5mWlR4UzA4TldNbmVFeUpMN2x6SDg0WHhwVW5iVTBFY0pORm55SEFpN0VsbE1NZ2NWMUhTZ1Y3a3ljaTFsSDlpX2c?oc=5",
+      "zh_summary": "核心是监管审批、政策动作或审评流程变化。 精读时先找主语和核心动词，再问：What happened? Why does it matter? What could happen next?",
+      "news_focus": "核心是监管审批、政策动作或审评流程变化。",
+      "why_it_matters": "监管变化会重新定义项目推进速度和商业机会。",
+      "industry_view": "同行会看这项动作会影响哪些公司、流程与竞争位置。",
+      "subtext": "监管消息往往是产业竞争和资源流向变化的前奏。",
+      "peer_questions": [
+        "这会影响哪些公司或赛道？",
+        "是一次性动作还是长期趋势？",
+        "企业需要如何调整策略？"
+      ],
+      "career_value": "有助于建立注册、临床运营与行业格局之间的连接。",
+      "risk_watch": "继续关注执行进度、外部环境与后续验证，避免把单一事件当作最终结论。",
+      "business_lens": "观察这件事是否会改变资产价值、合作意愿、研发时间线或资源配置。",
+      "role_tags": [
+        "Regulatory",
+        "Clinical Ops",
+        "Strategy"
+      ],
+      "retell_en": "This regulatory development matters because it could reshape execution timelines and competitive positioning.",
+      "vocab": [
+        {
+          "word": "clinical trial",
+          "zh": "临床试验",
+          "note": "drug development 高频词",
+          "extension": "Try using “clinical trial” in a one-sentence summary of today’s article."
+        },
+        {
+          "word": "regulatory",
+          "zh": "监管的",
+          "note": "regulatory review / approval 常见",
+          "extension": "Try using “regulatory” in a one-sentence summary of today’s article."
+        },
+        {
+          "word": "readout",
+          "zh": "数据公布",
+          "note": "trial readout",
+          "extension": "Try using “readout” in a one-sentence summary of today’s article."
+        },
+        {
+          "word": "pipeline",
+          "zh": "研发管线",
+          "note": "R&D pipeline",
+          "extension": "Try using “pipeline” in a one-sentence summary of today’s article."
+        },
+        {
+          "word": "efficacy",
+          "zh": "疗效",
+          "note": "efficacy and safety",
+          "extension": "Try using “efficacy” in a one-sentence summary of today’s article."
+        }
+      ]
+    },
+    {
+      "source": "Endpoints News",
+      "category": "Research Frontier",
+      "title": "Developing your new medicine in Japan faster",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBUZS1VaW55VTVCLVJxT3dvQnNKZ2o5cUZUYklIdGt6WUtSMWQ1ZXVwYlB2R3JjbzVHMnVhQlBZVE53TXFKQVB5eVZGTy13MVh1?oc=5",
+      "zh_summary": "核心是基础或转化研究领域的新发现。 精读时先找主语和核心动词，再问：What happened? Why does it matter? What could happen next?",
+      "news_focus": "核心是基础或转化研究领域的新发现。",
+      "why_it_matters": "今天的科研前沿，可能成为明天的靶点、biomarker 和创新方向。",
+      "industry_view": "同行会把研究放进机制—靶点—转化—临床潜力的链条里理解。",
+      "subtext": "研究价值通常不会立刻兑现，而会在几年内通过产业化路径慢慢显现。",
+      "peer_questions": [
+        "这个发现能否转化为靶点？",
+        "有没有 biomarker 价值？",
+        "距离真正临床应用还有多远？"
+      ],
+      "career_value": "适合建立你对早研、转化医学和创新方向的敏感度。",
+      "risk_watch": "继续关注执行进度、外部环境与后续验证，避免把单一事件当作最终结论。",
+      "business_lens": "观察这件事是否会改变资产价值、合作意愿、研发时间线或资源配置。",
+      "role_tags": [
+        "Discovery",
+        "Translational Medicine",
+        "MSL"
+      ],
+      "retell_en": "This research matters because mechanistic insight may eventually shape target discovery and translational strategy.",
+      "vocab": [
+        {
+          "word": "clinical trial",
+          "zh": "临床试验",
+          "note": "drug development 高频词",
+          "extension": "Try using “clinical trial” in a one-sentence summary of today’s article."
+        },
+        {
+          "word": "regulatory",
+          "zh": "监管的",
+          "note": "regulatory review / approval 常见",
+          "extension": "Try using “regulatory” in a one-sentence summary of today’s article."
+        },
+        {
+          "word": "readout",
+          "zh": "数据公布",
+          "note": "trial readout",
+          "extension": "Try using “readout” in a one-sentence summary of today’s article."
+        },
+        {
+          "word": "pipeline",
+          "zh": "研发管线",
+          "note": "R&D pipeline",
+          "extension": "Try using “pipeline” in a one-sentence summary of today’s article."
+        },
+        {
+          "word": "efficacy",
+          "zh": "疗效",
+          "note": "efficacy and safety",
+          "extension": "Try using “efficacy” in a one-sentence summary of today’s article."
+        }
+      ]
+    },
+    {
+      "source": "Nature Medicine",
+      "category": "Research Frontier",
+      "title": "Research articles",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPREt2VjNyZ0Fya0xsdGhoX28zU05FUUVYTjdYZ1pfS0dNZW9wY0plQjdkTzB4TldBTm9qejRzN1loR3BaX2J0UmdiZHFSRk14NmN6UWtaUlNIUGVqNm9QVGwydXFtNDItOGY1OEFrbGtCbUtWYzZjLUhBOGVwdTZrTDRxOVJKaVNKMzlnc0VEMVQ4ZjdieGptb1JGTGtaUHNYTUFTbzF2alBrbk5YQjdPT1ln?oc=5",
+      "zh_summary": "核心是基础或转化研究领域的新发现。 精读时先找主语和核心动词，再问：What happened? Why does it matter? What could happen next?",
+      "news_focus": "核心是基础或转化研究领域的新发现。",
+      "why_it_matters": "今天的科研前沿，可能成为明天的靶点、biomarker 和创新方向。",
+      "industry_view": "同行会把研究放进机制—靶点—转化—临床潜力的链条里理解。",
+      "subtext": "研究价值通常不会立刻兑现，而会在几年内通过产业化路径慢慢显现。",
+      "peer_questions": [
+        "这个发现能否转化为靶点？",
+        "有没有 biomarker 价值？",
+        "距离真正临床应用还有多远？"
+      ],
+      "career_value": "适合建立你对早研、转化医学和创新方向的敏感度。",
+      "risk_watch": "继续关注执行进度、外部环境与后续验证，避免把单一事件当作最终结论。",
+      "business_lens": "观察这件事是否会改变资产价值、合作意愿、研发时间线或资源配置。",
+      "role_tags": [
+        "Discovery",
+        "Translational Medicine",
+        "MSL"
+      ],
+      "retell_en": "This research matters because mechanistic insight may eventually shape target discovery and translational strategy.",
+      "vocab": [
+        {
+          "word": "clinical trial",
+          "zh": "临床试验",
+          "note": "drug development 高频词",
+          "extension": "Try using “clinical trial” in a one-sentence summary of today’s article."
+        },
+        {
+          "word": "regulatory",
+          "zh": "监管的",
+          "note": "regulatory review / approval 常见",
+          "extension": "Try using “regulatory” in a one-sentence summary of today’s article."
+        },
+        {
+          "word": "readout",
+          "zh": "数据公布",
+          "note": "trial readout",
+          "extension": "Try using “readout” in a one-sentence summary of today’s article."
+        },
+        {
+          "word": "pipeline",
+          "zh": "研发管线",
+          "note": "R&D pipeline",
+          "extension": "Try using “pipeline” in a one-sentence summary of today’s article."
+        },
+        {
+          "word": "efficacy",
+          "zh": "疗效",
+          "note": "efficacy and safety",
+          "extension": "Try using “efficacy” in a one-sentence summary of today’s article."
+        }
+      ]
+    }
+  ]
+}
